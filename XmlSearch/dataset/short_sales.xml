@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sales>
+  <Sale>
+    <InvoiceId>750-67-8428</InvoiceId>
+    <Branch>F</Branch>
+    <City>Yangon</City>
+    <CustomerType>Member</CustomerType>
+    <Sex>Female</Sex>
+    <ProductLine>Health and beauty</ProductLine>
+    <UnitPrice>74.69</UnitPrice>
+    <Quantity>7</Quantity>
+    <Tax>26.1415</Tax>
+    <Total>548.9715</Total>
+    <Date>1/5/2019</Date>
+    <Payment>Ewallet</Payment>
+    <CostOfGoods>522.83</CostOfGoods>
+    <Rating>8.6</Rating>
+  </Sale>
+</Sales>
